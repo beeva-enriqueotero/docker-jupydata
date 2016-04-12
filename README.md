@@ -1,5 +1,5 @@
 # docker-jupydata
-**Docker**ized (Minimal: &lt;1GB) **ju**pyter notebook for **py**thonic **data** science
+**Docker**ized (1.4 GB) **ju**pyter notebook for **py**thonic **data** science
 
 #### Quick start
 - Install Docker: 
