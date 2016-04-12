@@ -1,2 +1,2 @@
 # docker-jupydata
-# Dockerized (Minimal: &lt;1GB) Notebook for (Pythonic) Data Science
+**Docker**ized (Minimal: &lt;1GB) **ju**pyter notebook for **py**thonic **data** Science*
